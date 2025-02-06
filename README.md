@@ -4,3 +4,4 @@
 Beat your own scores 👀
 
 link to github pages : 
+https://its-mg.github.io/Memory-Game/
